@@ -1,6 +1,6 @@
 ---
 Name: Overclock w/ options menu support v0.5
-Creator: HowOldIsTheThongSong
+Creator: JackOfNone
 Category: System
 ---
 
